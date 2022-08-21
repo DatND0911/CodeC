@@ -1,0 +1,12 @@
+Food,F0001,Import,Fresh Meat,15/05/2022,31/05/2022,10,kg
+Drink,D0003,Import,Oolong Tea,15/05/2022,15/09/2022,100,litres
+Food,F0003,Import,Goat Meat,15/05/2022,31/05/2022,100,kg
+Drink,D0001,Import,Wine,15/05/2022,15/07/2025,200,litres
+Utensil,U0002,Import,Top Oven,15/05/2022,15/05/2030,10,set
+Food,F0002,Import,Spinach,15/05/2022,15/06/2022,200,kg
+Drink,D0002,Import,Beer,15/05/2022,15/05/2023,100,litres
+Food,F0002,Export,Spinach,16/05/2022,15/06/2022,100,kg
+Utensil,U0001,Import,Big Glass,15/05/2022,15/06/2025,100,set
+Utensil,U0003,Import,Silver Spoon,15/05/2022,15/05/2025,200,set
+Food,F0002,Import,Spinach,01/06/2022,01/07/2022,50,kg
+Utensil,U0002,Export,Top Oven,16/05/2022,15/05/2030,10,set
